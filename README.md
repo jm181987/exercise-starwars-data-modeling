@@ -40,4 +40,12 @@ The project is using the SQLAlchemy Python library to generate the database.
 - Please add at least 4 models with all of its properties.
 - Generate the `diagram.png` file at the end by running `$ python3 models.py` on the console.
 
+---
 
+## Notas de esta copia
+
+Este repositorio conserva las instrucciones educativas originales de modelado de datos de Star Wars. Para ejecutar el ejercicio, instala las dependencias con `pipenv install`, revisa `src/models.py` y genera el diagrama mediante `python3 src/models.py`. El modelo debe representar usuarios, personajes, planetas y favoritos con sus relaciones.
+
+Material educativo original: **4Geeks Academy / BreatheCode**.
+
+Mantenimiento del repositorio: **KNJ** · [KNJ Marketing](https://www.marketingknj.site/).
